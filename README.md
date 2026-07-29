@@ -5,11 +5,11 @@
 
 ### 🚀 About Me
 
-I am a passionate Full-Stack Engineer focused on designing and building robust, scalable, and maintainable enterprise software systems. I place strong emphasis on writing clean code, adhering to SOLID principles, and leveraging modern architectural paradigms.
+I am a Full-Stack Engineer specializing in designing and building scalable, high-performance web applications. Focused on maintainable clean code, domain logic, and modern architectural principles.
 
-* 🔭 **Currently Building:** Enterprise Web Applications using **.NET Core** and **Angular**.
-* 🏛️ **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository & Unit of Work.
-* ⚡ **Core Focus:** High-performance APIs, relational database design, and modular SPA frontends.
+* 🔭 **Currently Building:** Enterprise-grade Web APIs and Modular Single Page Applications.
+* 🏛️ **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository Pattern.
+* ⚡ **Core Focus:** C# .NET Core Backends, Angular Frontends, and Efficient Database Architectures.
 
 ---
 
@@ -19,20 +19,31 @@ I am a passionate Full-Stack Engineer focused on designing and building robust, 
   <tr>
     <td width="50%" valign="top">
       <h4>⚙️ Backend & Architecture</h4>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MS%20SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      </p>
       <ul>
-        <li><b>Languages:</b> C#, TypeScript, JavaScript</li>
-        <li><b>Frameworks:</b> ASP.NET Core Web API, EF Core</li>
-        <li><b>Architecture:</b> Clean Architecture, DDD, CQRS</li>
-        <li><b>Databases:</b> PostgreSQL, MS SQL Server, Cloudflare D1</li>
+        <li><b>Concepts:</b> Clean Architecture, DDD, CQRS, REST APIs</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend & Tooling</h4>
+      <h4>🎨 Frontend & DevOps</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </p>
       <ul>
-        <li><b>Frameworks:</b> Angular, HTML5, CSS3/SCSS</li>
-        <li><b>State & Tools:</b> RxJS, Angular CLI, REST APIs</li>
-        <li><b>DevOps & Cloud:</b> Docker, Cloudflare Workers, Git/GitHub</li>
-        <li><b>Practices:</b> SOLID Principles, RESTful Web Services</li>
+        <li><b>Concepts:</b> SPA, State Management, Cloud Infrastructure</li>
       </ul>
     </td>
   </tr>
@@ -40,11 +51,10 @@ I am a passionate Full-Stack Engineer focused on designing and building robust, 
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onise555&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onise555&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onise555&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
