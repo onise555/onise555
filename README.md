@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I am a Full-Stack Engineer specializing in designing and building scalable, high-performance web applications. Focused on maintainable clean code, domain logic, and modern architectural principles.
+I am a Full-Stack Engineer focused on building scalable, high-performance web applications. Strong emphasis on maintainable code, domain logic, and modern architectural principles.
 
 * 🔭 **Currently Building:** Enterprise-grade Web APIs and Modular Single Page Applications.
 * 🏛️ **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository Pattern.
@@ -48,14 +48,6 @@ I am a Full-Stack Engineer specializing in designing and building scalable, high
     </td>
   </tr>
 </table>
-
----
-
-### 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onise555&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 ---
 
