@@ -51,7 +51,7 @@ I am a Full-Stack Engineer focused on building scalable, high-performance web ap
 
 ---
 
-### ⭐️ Featured Projects
+ Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
