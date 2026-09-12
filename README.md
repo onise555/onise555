@@ -18,7 +18,7 @@ I am a Full-Stack Engineer focused on building scalable, high-performance web ap
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend & Architecture</h4>
+      <h4> Backend & Architecture</h4>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
