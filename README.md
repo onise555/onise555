@@ -7,9 +7,9 @@
 
 I am a Full-Stack Engineer focused on building scalable, high-performance web applications. Strong emphasis on maintainable code, domain logic, and modern architectural principles.
 
-* 🔭 **Currently Building:** Enterprise-grade Web APIs and Modular Single Page Applications.
-* 🏛️ **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository Pattern.
-* ⚡ **Core Focus:** C# .NET Core Backends, Angular Frontends, and Efficient Database Architectures.
+*  **Currently Building:** Enterprise-grade Web APIs and Modular Single Page Applications.
+*  **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository Pattern.
+*  **Core Focus:** C# .NET Core Backends, Angular Frontends, and Efficient Database Architectures.
 
 ---
 
