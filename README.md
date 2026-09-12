@@ -32,7 +32,7 @@ I am a Full-Stack Engineer focused on building scalable, high-performance web ap
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend & DevOps</h4>
+      <h4> Frontend & DevOps</h4>
       <p>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
